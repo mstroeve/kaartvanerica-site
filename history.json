@@ -1,0 +1,378 @@
+{
+ "stops": [
+  {
+   "n": 1,
+   "year": "1665",
+   "title": "De Bargerschans",
+   "text": "Lang voor er een dorp is, loopt hier over een zandrug de weg van Schoonebeek naar Zuidbarge, dwars door het veen. Uit vrees voor de bisschop van Munster graven boeren uit Sleen er in het najaar van 1665 een eenvoudige schans. De vijand komt nooit en de schans vervalt. Waar hij precies lag is niet bewezen; misschien hier, in De Welhaak.",
+   "x": 258889,
+   "y": 526620,
+   "h": 0,
+   "zoom": 0.5,
+   "source": {
+    "label": "Historische Kring Erica",
+    "url": "https://www.historischekringerica.nl/hke/monumenten_en_plaats/1-de-bargerschans-op-erica/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/51e52042a2a8.jpg?v=4ad84120",
+     "credit": "Impressie: zo zag een schans van aarden wallen eruit, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/verhalen/de-bargerschans-en-de-stichting-van-de-schansen-langs-het-bourtanger-moeras/"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "year": "1880",
+   "title": "De houten school",
+   "text": "Op 11 maart 1880 gaat de eerste school open, waar nu de algemene begraafplaats is: één houten lokaal en één onderwijzer voor de kinderen van Erica, het Amsterdamscheveld en de venen eromheen, soms meer dan 180. Een inspectie keurt het vochtige gebouw in 1887 af. In 1893 komt er een stenen school.",
+   "x": 259119.0,
+   "y": 526610.3,
+   "h": 0,
+   "zoom": 1.2,
+   "source": {
+    "label": "Historische Kring Erica",
+    "url": "https://www.historischekringerica.nl/hke/verhalen/de-eerste-basisschool-op-erica/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/047f9e7f9471.jpg?v=4ad84120",
+     "credit": "Ansichtkaart 'Erica. School': de openbare lagere school, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/verhalen/de-eerste-basisschool-op-erica/"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "year": "1866",
+   "title": "Een eigen parochie",
+   "text": "Drie jaar na het begin heeft Erica al een katholieke parochie met een kerk: veel kanaalgravers en veenarbeiders komen uit het katholieke Munsterland en Hannover. De kerk van nu is uit 1933, van architect Clemens Hardeman, op de plek van de oude.",
+   "x": 259375.5,
+   "y": 526527.9,
+   "h": 0,
+   "zoom": 1.2,
+   "source": {
+    "label": "Rijksmonumentenregister",
+    "url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/510959"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/ca9c92936b42.jpg?v=4ad84120",
+     "credit": "De kerk van 1933, foto Roleff (2011), CC BY-SA 3.0 nl",
+     "url": "https://commons.wikimedia.org/wiki/File:RM%20510959%20Kerk%20Erica.jpg"
+    },
+    {
+     "src": "history/f518dd53792c.jpg?v=4ad84120",
+     "credit": "De oude R.K. kerk, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/galerij/rk-kerk/"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "year": "1945",
+   "title": "Nieuwe klokken",
+   "text": "In de oorlog duiken jonge mannen onder in holen in het veen van de Kommerhoek, afgedekt met heideplaggen. De bezetter haalt in 1943 de kerkklokken weg. Op 12 augustus 1945 worden drie nieuwe gewijd, betaald met geld dat de jeugd ophaalde. De grootste draagt de namen van drie omgekomen dorpsgenoten.",
+   "x": 259379.4,
+   "y": 526539.1,
+   "h": 20,
+   "zoom": 1.2,
+   "source": {
+    "label": "Historische Kring Erica",
+    "url": "https://www.historischekringerica.nl/hke/verhalen/de-jaarlijkse-4-5-mei-herdenking-viering-en-de-klokken-en-hun-namen/"
+   },
+   "more": null,
+   "photos": []
+  },
+  {
+   "n": 5,
+   "year": "1930",
+   "title": "Een haven voor het dorp",
+   "text": "Plaatselijk Belang wil een haven en het dorp legt er zelf 700 gulden voor bij elkaar. In de laatste week van juli 1930 lost het eerste schip. Lang duurt het niet: in 1968 besluit de gemeente de wijk met de haven te dempen. Op de plek staan nu de drive-in-woningen van de Binnenbaan.",
+   "x": 258925,
+   "y": 526270,
+   "h": 0,
+   "zoom": 0.9,
+   "source": {
+    "label": "Historische Kring Erica",
+    "url": "https://www.historischekringerica.nl/hke/verhalen/de-haven-of-de-havenstraat/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/b50ed3b19ae5.jpg?v=4ad84120",
+     "credit": "Woonschepen in de haven, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/verhalen/de-haven-of-de-havenstraat/"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "year": "1873",
+   "title": "Twee sluizen over de Hondsrug",
+   "text": "De vaart kruist bij Erica een uitloper van de Hondsrug. Om dat hoogteverschil te nemen komen er binnen 800 meter twee sluizen: de Kalffsluis en de Heemskerksluis, genoemd naar een bankier en een latere minister uit het bestuur van de kanaalmaatschappij. In april 1917 liggen 75 schepen te wachten. In 1953 vervangt de Ericasluis ze allebei.",
+   "x": 258226,
+   "y": 525900,
+   "h": 0,
+   "zoom": 0.7,
+   "source": {
+    "label": "Historische Kring Erica",
+    "url": "https://www.historischekringerica.nl/hke/verhalen/erica-onder-de-sluis-tussen-de-sluizen-en-boven-de-sluis/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/8a6fe4877e22.jpg?v=4ad84120",
+     "credit": "Ansichtkaart van de Kalffsluis, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/albums/sluizen-en-kanalen/"
+    },
+    {
+     "src": "history/73db3ec850e4.jpg?v=4ad84120",
+     "credit": "De Heemskerksluis in 1940, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/verhalen/erica-onder-de-sluis-tussen-de-sluizen-en-boven-de-sluis/"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "year": "1863",
+   "title": "De kanaalgravers blijven",
+   "text": "Als het graven aan het kanaal stilvalt, blijven een paar gezinnen van kanaalgravers en boekweitboeren uit Slagharen achter op de zandrug. Ze bouwen plaggenhutten en willen hun plek Nieuw-Slagharen noemen. De bronnen zijn het niet eens over wie de eersten waren: de Historische Kring noemt Harm Veltrop en de weduwe Korterik, elders staan Geert Tien en Anton Lipholt. Het beeld De Kanaalgravers uit 1988 herinnert aan hen.",
+   "x": 258975,
+   "y": 525835,
+   "h": 0,
+   "zoom": 0.9,
+   "source": {
+    "label": "Historische Kring Erica",
+    "url": "https://www.historischekringerica.nl/hke/verhalen/harm-veltrop-en-jan-korterik-wie-waren-zij/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/693dce51c2fa.jpg?v=4ad84120",
+     "credit": "De Kanaalgravers van Willem Kind, foto Onderwijsgek (2008), CC BY-SA 2.5 nl",
+     "url": "https://commons.wikimedia.org/wiki/File:Erica%20De%20Kanaalgravers.JPG"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "year": "1863",
+   "title": "Geen Nieuw-Slagharen maar Erica",
+   "text": "De burgemeester van Emmen, Lucas Oldenhuis Tonckens, geeft het dorp zijn naam: Erica, de Latijnse naam van de dophei die hier op het veen bloeit. Een krant uit 1944 vertelt dat er een paal met een bord in de grond werd geslagen.",
+   "x": 259000,
+   "y": 525800,
+   "h": 0,
+   "zoom": 0.4,
+   "source": {
+    "label": "Wikipedia",
+    "url": "https://nl.wikipedia.org/wiki/Erica_(Drenthe)"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/c2b2e6781118.jpg?v=4ad84120",
+     "credit": "Kaart: tot hier was in 1863 het kanaal gegraven, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/verhalen/harm-veltrop-en-jan-korterik-wie-waren-zij/"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "year": "1902",
+   "title": "De stoomtram komt",
+   "text": "De Dedemsvaartsche Stoomtramweg-Maatschappij trekt haar lijn door van Nieuw-Amsterdam naar Erica, en later tot Ter Apel. Reizigers kunnen mee tot 1933. Voor het dorp telt vooral de vracht: turfstrooisel de streek uit, kolen erin.",
+   "x": 259010,
+   "y": 525790,
+   "h": 0,
+   "zoom": 0.8,
+   "source": {
+    "label": "Wikipedia",
+    "url": "https://nl.wikipedia.org/wiki/Tramlijn_Coevorden_-_Ter_Apel"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/cba8c1887b1b.jpg?v=4ad84120",
+     "credit": "Ansichtkaart 'Vaart ZZ' met links de tram, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/albums/ansichtkaarten/"
+    },
+    {
+     "src": "history/5b695e01a4d1.jpg?v=4ad84120",
+     "credit": "De trambrug over de De Waardswijk, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/verhalen/de-de-waardswijk-of-cementwieke/"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "year": "1965",
+   "title": "De hervormde kerk brandt af",
+   "text": "Een persfoto van augustus 1965 toont de uitgebrande hervormde kerk van Erica. Drie jaar later staat hier een nieuwe kerk, De Open Hof, van architect A.C. Nicolai: gele baksteen, een plat dak en daarboven een zadeldak met een glazen top.",
+   "x": 259131,
+   "y": 525902,
+   "h": 0,
+   "zoom": 1.2,
+   "source": {
+    "label": "Monumenten.nl",
+    "url": "https://www.monumenten.nl/monument/80133600"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/c8f449a15181.jpg?v=4ad84120",
+     "credit": "De uitgebrande kerk, augustus 1965, foto Ron Kroon, Anefo, Nationaal Archief, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Nederlands%20Hervormde%20Kerk%20in%20Erica%20%28Drenthe%29%20door%20brand%20verwoest%2C%20Bestanddeelnr%20918-0877.jpg"
+    },
+    {
+     "src": "history/0241d56c19bd.jpg?v=4ad84120",
+     "credit": "Het uitgebrande interieur, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/galerij/ned-herv/"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "year": "1896",
+   "title": "Molen De Heidebloem",
+   "text": "De vorige molen brandt in 1895 af. Molenmakers Huberts en Van Houselt uit Coevorden bouwen daarna deze achtkante stellingmolen bij de brug. Na de oorlog staat hij stil en vervalt hij; in 1978 gaat hij hersteld weer open, en hij maalt nog altijd.",
+   "x": 259035,
+   "y": 525716,
+   "h": 12,
+   "zoom": 1.2,
+   "source": {
+    "label": "Molendatabase",
+    "url": "https://www.molendatabase.nl/molens/ten-bruggencate-nr-02734"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/018a740a466a.jpg?v=4ad84120",
+     "credit": "De molen in verval, 1971, foto W.A. Korpershoek, Rijksdienst voor het Cultureel Erfgoed, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Korenmolen%2C%20overzicht%20-%20Erica%20-%2020072008%20-%20RCE.jpg"
+    },
+    {
+     "src": "history/0586f2e6efeb.jpg?v=4ad84120",
+     "credit": "De Heidebloem in 2008, foto Quistnix, CC BY-SA 2.5",
+     "url": "https://commons.wikimedia.org/wiki/File:Erica%20molen%20De%20Heidebloem.jpg"
+    },
+    {
+     "src": "history/63593c8e417b.jpg?v=4ad84120",
+     "credit": "De molen op een oude foto, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/albums/molen-de-heidebloem/"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "year": "1983",
+   "title": "De laatste turftrein",
+   "text": "Op 30 maart 1983 rijdt de laatste turftrein; eind dat jaar stopt de fabriek. Een jaar later begint op het terrein het Industrieel Smalspoor Museum, dat de treintjes laat rijden.",
+   "x": 260724,
+   "y": 522324,
+   "h": 0,
+   "zoom": 0.8,
+   "source": {
+    "label": "Historische Kring Erica",
+    "url": "https://www.historischekringerica.nl/hke/verhalen/het-smalspoor-van-de-maatschappij-griendtsveen/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/c5814aeaf0a9.jpg?v=4ad84120",
+     "credit": "Rondrit bij het museum, foto Ymnes (2018), CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Industrieel%20Smalspoormuseum%20Erica%2C%20rijdende%20trein%20-%201.JPG"
+    },
+    {
+     "src": "history/8cda024e00a4.jpg?v=4ad84120",
+     "credit": "Smalspoortrein van de Maatschappij Griendtsveen, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/verhalen/het-smalspoor-van-de-maatschappij-griendtsveen/"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "year": "1913",
+   "title": "Turfstrooisel",
+   "text": "In de fabriek wordt bolster, de bovenste laag van het veen, gemalen en in balen geperst: strooisel voor stallen in het hele land. Smalspoortreintjes brengen de bolster aan; schepen laden onder een houten overkapping boven het Dommerskanaal.",
+   "x": 260338.0,
+   "y": 522440.7,
+   "h": 0,
+   "zoom": 0.8,
+   "source": {
+    "label": "Industrieel Smalspoor Museum",
+    "url": "https://www.smalspoorcentrum.nl/fabriek/"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/c7e62143f81d.jpg?v=4ad84120",
+     "credit": "De overkapping boven het Dommerskanaal in 2000, foto IJsbrand Heins, Rijksdienst voor het Cultureel Erfgoed, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Exterieur%20overzicht%20met%20houten%20overkapping%20over%20het%20Dommerskanaal%20-%20Amsterdamscheveld%20-%2020323160%20-%20RCE.jpg"
+    },
+    {
+     "src": "history/d060888860ec.jpg?v=4ad84120",
+     "credit": "De fabriek in 2013, foto Onderwijsgek, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Turfstrooiselfabriek%20Erica.JPG"
+    },
+    {
+     "src": "history/f39c111c5faf.jpg?v=4ad84120",
+     "credit": "Ansichtkaart van de turfstrooiselfabriek, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/albums/ansichtkaarten/"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "year": "1909",
+   "title": "Griendtsveen bouwt De Peel",
+   "text": "Amsterdamse beleggers kochten dit veen al in 1850, maar lang gebeurt er weinig. Dan neemt de Griendtsveen-maatschappij uit de Brabantse Peel het over en bouwt fabrieken, een centrale, een school, woningen en een smalspoor tot over de Duitse grens. In het dorp heet de nederzetting sindsdien De Peel. Dit is de directiewoning, Huize Carex.",
+   "x": 258054.9,
+   "y": 523383.3,
+   "h": 0,
+   "zoom": 0.6,
+   "source": {
+    "label": "Wikipedia",
+    "url": "https://nl.wikipedia.org/wiki/Amsterdamscheveld_(Emmen)"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/661701fcf581.jpg?v=4ad84120",
+     "credit": "Ansichtkaart 'Amsterdamsche Veld. Griendtsveen', collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/albums/ansichtkaarten/"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "year": "1998",
+   "title": "Water in de kassen",
+   "text": "Erica is een tuindersdorp geworden. Eind oktober 1998 staat het kassengebied onder water; premier Kok komt kijken en een dag later koningin Beatrix, op rubberlaarzen. Intussen maakt het dorp ook muziek: Skik uit Erica zingt in het Drents, en met Op fietse fietst heel Nederland mee.",
+   "x": 258010,
+   "y": 523740,
+   "h": 0,
+   "zoom": 0.5,
+   "source": {
+    "label": "Wikipedia",
+    "url": "https://nl.wikipedia.org/wiki/Erica_(Drenthe)"
+   },
+   "more": null,
+   "photos": [
+    {
+     "src": "history/34af4882d5a6.jpg?v=4ad84120",
+     "credit": "Kassen bij Erica, foto Ymnes (2018), CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Tuinbouwcentrum%20Erica%20-%201.JPG"
+    },
+    {
+     "src": "history/1bc3d546afa5.jpg?v=4ad84120",
+     "credit": "De warmtecentrale van het tuinbouwcentrum, collectie Historische Kring Erica",
+     "url": "https://www.historischekringerica.nl/hke/albums/tuinbouw/"
+    }
+   ]
+  }
+ ]
+}
